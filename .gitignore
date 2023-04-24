@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/
+/.vs/BUDSgui/DesignTimeBuild/.dtbcache.v2
+/.vs/BUDSgui/FileContentIndex/d2a88c44-9778-47e5-a383-ca4952fec769.vsidx
+/.vs/BUDSgui/v17/.futdcache.v2
+/.vs/BUDSgui/v17/.suo
+/.vs/ProjectEvaluation/budsgui.metadata.v5.2
+/.vs/ProjectEvaluation/budsgui.projects.v5.2
+/.vs/VSWorkspaceState.json
+/BUDSgui/.vs/slnx.sqlite
+/BUDSgui/obj/Debug/net6.0-windows/BUDSgui.csproj.GenerateResource.cache
+/BUDSgui/bin/Debug/net6.0-windows/BUDSgui.dll
+/BUDSgui/bin/Debug/net6.0-windows/BUDSgui.pdb
+/BUDSgui/obj/Debug/net6.0-windows/BUDSgui.dll
+/BUDSgui/obj/Debug/net6.0-windows/BUDSgui.pdb
